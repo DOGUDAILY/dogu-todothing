@@ -7,7 +7,7 @@ body {
 
 .container {
   text-align: center;
-  background-color: rgb(219, 219, 219) ;
+  background-color: white ;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;  max-width: 800px;
   border-top: 10px solid blanchedalmond;
   height: 100%;
